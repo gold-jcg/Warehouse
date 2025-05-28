@@ -1,4 +1,4 @@
-# mydemo
+# X-AI-Skill
 
 ## Project setup
 ```
